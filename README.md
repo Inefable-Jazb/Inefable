@@ -1,2 +1,0 @@
-# Inefable
-Inefable Inacap Project
